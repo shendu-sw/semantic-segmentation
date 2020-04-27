@@ -1,4 +1,5 @@
 # Semantic-Segmentation
 ## Survey
 
-* [Yassine Ruichek, Fahad Lateef, Survey on semantic segmentation using deep learning techniques, Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S092523121930181X).
+* [Y. Ruichek and F. Lateef, Survey on semantic segmentation using deep learning techniques, Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S092523121930181X).
+* [A. Garcia-Garcia, S. Orts-Escolano, S. O. Oprea, V. Villena-Martinez, and J. Garcia-Rodriguez, A Review on Deep Learning Techniques Applied to Semantic Segmentation, ]
