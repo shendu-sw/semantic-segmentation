@@ -30,6 +30,10 @@
 
 * [Z. Zhou, M. M. R. Siddiquee, N. Tajbakhsh, and J. Liang, Unet++: A nested u-net architecture for medical image segmentation. In Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support, 2018: 3-11.](https://arxiv.org/abs/1807.10165)
 
+> Improved U-Net for Dehazing application
+
+* [H. Dong, J. Pan, L. Xiang, Z. Hu, and X. Zhang, Multi-Scale Boosted Dehazing Network with Dense Feature Fusion. arXiv preprint arXiv: 2004.13388.](https://arxiv.org/abs/2004.13388)
+
 ## Instance segmentation
 
 ## Panoptic segmentation
