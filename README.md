@@ -42,6 +42,8 @@
 
 * [K. He, G. Gkioxari, P. Dollar, and R. Girshick, Mask R-CNN. In Proceedings of the IEEE international conference on computer vision, 2017: 2961-2969.](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
+* [R. Fan, M. M. Cheng, Q. Hou, et al, S4Net: Single stage salient-instance segmentation. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019: 6103-6112.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_S4Net_Single_Stage_Salient-Instance_Segmentation_CVPR_2019_paper.pdf)
+
 ## Panoptic segmentation
 
 * [A. Kirillov, K. He, R. Girshick, et al, Panoptic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2019: 9404-9413.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf)
