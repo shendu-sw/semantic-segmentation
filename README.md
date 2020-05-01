@@ -4,6 +4,14 @@
 * [Y. Ruichek and F. Lateef, Survey on semantic segmentation using deep learning techniques. Neurocomputing, 2019, 338: 321-348.](https://www.sciencedirect.com/science/article/abs/pii/S092523121930181X)
 * [A. Garcia-Garcia, S. Orts-Escolano, S. O. Oprea, V. Villena-Martinez, and J. Garcia-Rodriguez, A Review on Deep Learning Techniques Applied to Semantic Segmentation. arXiv preprint arXiv: 1704.06857.](https://arxiv.org/abs/1704.06857)
 
+## Semantic segmentation (Scene Parsing)
+
+## Instance segmentation
+
+## Panoptic segmentation
+
+* [Q. Li, A. Arnab, and P. H. S. Torr, Weakly-and semi-supervised panoptic segmentation. In Proceedings of the European Conference on Computer Vision (ECCV), 2018: 102-118.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.pdf)
+
 ## FCN
 
 > Global features(global average pooling) + FCN
