@@ -1,4 +1,4 @@
-# Semantic-Segmentation
+# Image-Segmentation
 ## Survey
 
 * [Y. Ruichek and F. Lateef, Survey on semantic segmentation using deep learning techniques. Neurocomputing, 2019, 338: 321-348.](https://www.sciencedirect.com/science/article/abs/pii/S092523121930181X)
