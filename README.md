@@ -36,6 +36,8 @@
 
 ## Instance segmentation
 
+* [K. He, G. Gkioxari, P. Dollar, and R. Girshick, Mask R-CNN. In Proceedings of the IEEE international conference on computer vision, 2017: 2961-2969.](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
+
 ## Panoptic segmentation
 
 * [Q. Li, A. Arnab, and P. H. S. Torr, Weakly-and semi-supervised panoptic segmentation. In Proceedings of the European Conference on Computer Vision (ECCV), 2018: 102-118.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.pdf)
