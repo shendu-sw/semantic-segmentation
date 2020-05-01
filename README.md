@@ -6,6 +6,8 @@
 
 ## FCN
 
+> 全局特征（global average pooling） + FCN
+
 * [Liu W, Rabinovich A, Berg A C. Parsenet: Looking wider to see better[J]. arXiv preprint arXiv:1506.04579, 2015.](https://arxiv.org/abs/1506.04579)
 
 ## Encoder-Decoder
