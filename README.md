@@ -18,7 +18,7 @@
 
 > U-Net
 
-* [O. Ronneberger, P. Fischer, and T. Brox, U-net: Convolutional networks for biomedical image segmentation. International Conference on Medical image computing and computer-assisted intervention, 2015: 234-241.](https://arxiv.org/pdf/1505.04597.pdf)%e5%92%8c%5bTiramisu%5d(https://arxiv.org/abs/1611.09326.pdf)
+* [O. Ronneberger, P. Fischer, and T. Brox, U-net: Convolutional networks for biomedical image segmentation. International Conference on Medical image computing and computer-assisted intervention, 2015: 234-241.](https://arxiv.org/pdf/1505.04597.pdf)
 
 > Tiramisu, Deep layer aggregation, U-Net++: Improved methods over U-Net
 
