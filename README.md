@@ -34,6 +34,10 @@
 
 * [H. Dong, J. Pan, L. Xiang, Z. Hu, and X. Zhang, Multi-Scale Boosted Dehazing Network with Dense Feature Fusion. arXiv preprint arXiv: 2004.13388.](https://arxiv.org/abs/2004.13388)
 
+#### Dilated Convolution
+
+* [F. Yu and V. Koltun, Multi-scale context aggregation by dilated convolutions, International conference on learning representations, 2016.](https://arxiv.org/abs/1511.07122)
+
 ## Instance segmentation
 
 * [K. He, G. Gkioxari, P. Dollar, and R. Girshick, Mask R-CNN. In Proceedings of the IEEE international conference on computer vision, 2017: 2961-2969.](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
