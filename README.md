@@ -6,13 +6,13 @@
 
 ## Semantic segmentation (Scene Parsing)
 
-### FCN
+#### FCN
 
 > Global features(global average pooling) + FCN
 
 * [W. Liu, A. Rabinovich, and A. C. Berg, Parsenet: Looking wider to see better[J]. arXiv preprint arXiv:1506.04579, 2015.](https://arxiv.org/abs/1506.04579)
 
-### Encoder-Decoder
+#### Encoder-Decoder
 
 > Deconvolution network
 
