@@ -6,19 +6,13 @@
 
 ## Semantic segmentation (Scene Parsing)
 
-## Instance segmentation
-
-## Panoptic segmentation
-
-* [Q. Li, A. Arnab, and P. H. S. Torr, Weakly-and semi-supervised panoptic segmentation. In Proceedings of the European Conference on Computer Vision (ECCV), 2018: 102-118.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.pdf)
-
-## FCN
+### FCN
 
 > Global features(global average pooling) + FCN
 
 * [W. Liu, A. Rabinovich, and A. C. Berg, Parsenet: Looking wider to see better[J]. arXiv preprint arXiv:1506.04579, 2015.](https://arxiv.org/abs/1506.04579)
 
-## Encoder-Decoder
+### Encoder-Decoder
 
 > Deconvolution network
 
@@ -35,3 +29,10 @@
 * [F. Yu, D. Wang, E. Shelhamer, et al, Deep layer aggregation. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2018: 2403-2412.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf)
 
 * [Z. Zhou, M. M. R. Siddiquee, N. Tajbakhsh, and J. Liang, Unet++: A nested u-net architecture for medical image segmentation. In Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support, 2018: 3-11.](https://arxiv.org/abs/1807.10165)
+
+## Instance segmentation
+
+## Panoptic segmentation
+
+* [Q. Li, A. Arnab, and P. H. S. Torr, Weakly-and semi-supervised panoptic segmentation. In Proceedings of the European Conference on Computer Vision (ECCV), 2018: 102-118.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.pdf)
+
