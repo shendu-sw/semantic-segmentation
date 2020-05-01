@@ -44,7 +44,7 @@
 
 ## Panoptic segmentation
 
-* [Kirillov A, He K, Girshick R, et al, Panoptic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2019: 9404-9413.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf)
+* [A. Kirillov, K. He, R. Girshick, et al, Panoptic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2019: 9404-9413.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kirillov_Panoptic_Segmentation_CVPR_2019_paper.pdf)
 
 * [Q. Li, A. Arnab, and P. H. S. Torr, Weakly-and semi-supervised panoptic segmentation. In Proceedings of the European Conference on Computer Vision (ECCV), 2018: 102-118.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anurag_Arnab_Weakly-_and_Semi-Supervised_ECCV_2018_paper.pdf)
 
