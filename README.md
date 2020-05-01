@@ -8,4 +8,4 @@
 
 ## Encoder-Decoder
 
-* [H. Noh, S. Hong, and B. Han, Learning Deconvolution Network for Semantic Segmentation, Proceedings of the IEEE international conference on computer vision. 2015: 1520-1528.] (https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.html)
+* [H. Noh, S. Hong, and B. Han, Learning Deconvolution Network for Semantic Segmentation, Proceedings of the IEEE international conference on computer vision. 2015: 1520-1528.](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.html)
