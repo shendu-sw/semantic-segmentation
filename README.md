@@ -25,3 +25,5 @@
 * [Z. Zhou, M. M. R. Siddiquee, N. Tajbakhsh, and J. Liang, Unet++: A nested u-net architecture for medical image segmentation. In Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support, 2018: 3-11.](https://arxiv.org/abs/1807.10165)
 
 * [S. Jégou, M. Drozdzal, D. Vazquez D, et al, The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition workshops, 2017: 11-19.](https://arxiv.org/abs/1611.09326)
+
+* [F. Yu, D. Wang, E. Shelhamer, et al, Deep layer aggregation. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2018: 2403-2412.](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Deep_Layer_Aggregation_CVPR_2018_paper.pdf)
