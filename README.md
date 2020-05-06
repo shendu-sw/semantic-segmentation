@@ -38,6 +38,8 @@
 
 * [F. Yu and V. Koltun, Multi-scale context aggregation by dilated convolutions, International conference on learning representations, 2016.](https://arxiv.org/abs/1511.07122)
 
+* [L. C. Chen, G. Papandreou, F. Schroff, et al, Rethinking atrous convolution for semantic image segmentation. arXiv preprint arXiv:1706.05587, 2017.](https://arxiv.org/pdf/1706.05587.pdf)
+
 #### Pixelshuffle
 
 * [W. Shi, J. Caballero, F. Huszár, et al, Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2016: 1874-1883.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
