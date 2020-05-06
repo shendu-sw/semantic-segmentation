@@ -8,6 +8,10 @@
 
 #### FCN
 
+> FCN
+
+* [J. Long, E. Shelhamer, and T. Darrell, Fully convolutional networks for semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2015: 3431-3440.](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+
 > Global features(global average pooling) + FCN
 
 * [W. Liu, A. Rabinovich, and A. C. Berg, Parsenet: Looking wider to see better[J]. arXiv preprint arXiv:1506.04579, 2015.](https://arxiv.org/abs/1506.04579)
