@@ -38,6 +38,10 @@
 
 * [F. Yu and V. Koltun, Multi-scale context aggregation by dilated convolutions, International conference on learning representations, 2016.](https://arxiv.org/abs/1511.07122)
 
+#### Pixelshuffle
+
+* [W. Shi, J. Caballero, F. Huszár, et al, Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2016: 1874-1883.](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf)
+
 ## Instance segmentation
 
 * [K. He, G. Gkioxari, P. Dollar, and R. Girshick, Mask R-CNN. In Proceedings of the IEEE international conference on computer vision, 2017: 2961-2969.](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
