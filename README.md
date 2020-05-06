@@ -18,6 +18,10 @@
 
 #### Encoder-Decoder
 
+> SegNet
+
+* [V. Badrinarayanan, A. Kendall, R. Cipolla, Segnet: A deep convolutional encoder-decoder architecture for image segmentation. IEEE transactions on pattern analysis and machine intelligence, 2017, 39(12): 2481-2495.](https://arxiv.org/abs/1511.00561)
+
 > Deconvolution network
 
 * [H. Noh, S. Hong, and B. Han, Learning Deconvolution Network for Semantic Segmentation. In Proceedings of the IEEE international conference on computer vision. 2015: 1520-1528.](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.html)
